@@ -38,7 +38,7 @@
 ### VM families
 > https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes
 
-Type | Description
+Type | Description here
 -----|------------
 General purpose | Balanced CPU-to-memory ratio. Ideal for testing and development, small to medium databases, and low to medium traffic web servers.
 Compute optimized | High CPU-to-memory ratio. Good for medium traffic web servers, network appliances, batch processes, and application servers.
